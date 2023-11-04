@@ -1,0 +1,65 @@
+section{
+    padding: 13rem 10%;
+}
+footer{
+    padding: 7rem 6%; 
+}
+.home{
+    background: url(cover.PNG) no-repeat;
+    background-size: cover;
+    background-position: center ;
+ height: 100%;
+ cursor: pointer;
+    
+}
+
+.middle{
+    background: url(middle.PNG) no-repeat;
+    background-size: cover;
+    background-position: center ;
+ height: 100%;
+}
+.foot{
+    background: url(n3.PNG) no-repeat;
+background-size: cover;
+
+    background-position: center ;
+ height: 100%; 
+}
+.footer{
+    background-color: #10147e;
+    background-size: cover;
+    background-position: center ;
+ height: 100%;
+ width: 100%;
+
+ 
+
+}
+.dark{
+    background: url(dept.png);
+    
+ height: 100%;
+ width: 100%;
+ cursor: pointer;
+cursor: url(index.html);
+
+}
+.fo{
+    background: url(fo.PNG);
+    background-size: cover;
+    background-position: center ;
+ height: 100%;
+ width: 100%;
+ cursor: pointer;
+ 
+}
+.footer1{
+    background: url(footer1.PNG);
+    background-size: cover;
+    background-position: center ;
+ height: 100%;
+ width: 100%;
+ cursor: pointer ;
+}
+/* login start */
